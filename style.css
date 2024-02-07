@@ -461,6 +461,9 @@ width: max-content;
     padding-inline: 0;
     width: 93vw;
   }
+  .story-text{
+    padding-top:clamp(1rem,1vw,1vw);
+  }
   .service{
     flex-direction: column;
     align-items: center;
