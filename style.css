@@ -446,12 +446,6 @@ width: max-content;
   transition: 0.4s;
 }
 
-
-.blog{
-  background: var(--gray);
-  height: 600px;
-}
-
 @media screen and (max-width:1024px){
   .story-container{
     flex-direction: column;
